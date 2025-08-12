@@ -4,20 +4,12 @@ This guide walks you through creating a scalable data pipeline in Azure, transfo
 
 ![Data Engineering vs Software Engineering (6)](https://github.com/user-attachments/assets/bdadd2e0-89be-4683-b53b-fe331be6f6bf)
 
-## **Who Should Use This Guide**
-
-- Beginner to Intermediate Data Engineers.
-- Those new to Azure who want hands-on experience with Databricks, ADF, and Synapse.
-
-## **What You’ll Learn**
+## *Main Functions**
 
 1. Configure Azure Databricks and securely access data in Azure Storage.
 2. Process and transform data using Databricks notebooks (`bronze`, `silver`, `gold`).
 3. Automate data pipelines with Azure Data Factory.
 4. Query and optimize data in Synapse Analytics for analytics and visualization.
-
-## **Estimated Time to Complete**
-- 2–4 hours, depending on familiarity with Azure services.
 
 ## **Prerequisites**
 - Azure account (free trial available).
