@@ -4,7 +4,7 @@ This guide walks you through creating a scalable data pipeline in Azure, transfo
 
 ![Data Engineering vs Software Engineering (6)](https://github.com/user-attachments/assets/bdadd2e0-89be-4683-b53b-fe331be6f6bf)
 
-## *Main Functions**
+## **Main Functions**
 
 1. Configure Azure Databricks and securely access data in Azure Storage.
 2. Process and transform data using Databricks notebooks (`bronze`, `silver`, `gold`).
