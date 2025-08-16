@@ -1,4 +1,4 @@
-# Data Engineering : From Raw Data to Azure Synapse Analytics
+# Earthquake Azure Data Engineering Pipeline
 
 This project consists of creating a scalable data pipeline in Azure, transforming raw data into meaningful insights using Databricks, Azure Data Factory (ADF), and Synapse Analytics.
 
